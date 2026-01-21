@@ -212,4 +212,4 @@ Once you are satisfied with your work and you are ready to submit it for grading
 
 ## Wrapping up
 
-Each lab in this course is worth 3 points. When you're all done, make sure that you've pushed the latest version of your code to GitHub and that you have submitted your work to Gradescope, including filling out this week's [exit ticket](https://docs.google.com/forms/d/e/1FAIpQLSev8WgYl2kEgD4-cSGzVBtFluD_HbpeEOBzAjfDLvaiHYf9Rw/viewform?usp=sharing&ouid=101766829093165321512). Please see a TA or the professor to get checked off (they will check your Gradescope submission, and you can show them the confirmation page for the exit ticket on your computer), and then you're free to go!
+Each lab in this course is worth 3 points. When you're all done, make sure that you've pushed the latest version of your code to GitHub and that you have submitted your work to Gradescope, including filling out this week's [exit ticket](https://forms.gle/BVrZATFKWfXYTiKq9). Please see a TA or the professor to get checked off (they will check your Gradescope submission, and you can show them the confirmation page for the exit ticket on your computer), and then you're free to go!
