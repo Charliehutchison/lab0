@@ -68,7 +68,7 @@ public class Employee {
         // TODO: print the object (it should implicitly call the toString method you overrode)
         System.out.println(e1);
 
-        // TODO: Try at least one more thing :) Leave a comment about what you did
+        // I created another method called getID() similar to get name and then printed it out.
         System.out.println(e1.getID());
     }
 }
